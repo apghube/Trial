@@ -2,7 +2,7 @@
 
 int main()
 {
-  string s="Welcome to Git !";
+  string s="Welcome to Git Amruta!";
   printf("%s",s);
 return 0;
 }
